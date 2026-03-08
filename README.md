@@ -140,6 +140,7 @@ hajimete-python-benkyokai/
 | 日付 | テーマ | 資料 |
 |------|--------|------|
 | 2026-03-19 | Office Scripts：CSVデータを整える | [docs/2026-03-19/office-scripts/](docs/2026-03-19/office-scripts/README.md) |
+| 2026-03-19 | Python in Excel：売上データを表でまとめて扱う | [docs/2026-03-19/python-in-excel/](docs/2026-03-19/python-in-excel/README.md) |
 
 ---
 
