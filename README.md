@@ -141,6 +141,7 @@ hajimete-python-benkyokai/
 |------|--------|------|
 | 2026-03-19 | Office Scripts：CSVデータを整える | [docs/2026-03-19/office-scripts/](docs/2026-03-19/office-scripts/README.md) |
 | 2026-03-19 | Python in Excel：売上データを表でまとめて扱う | [docs/2026-03-19/python-in-excel/](docs/2026-03-19/python-in-excel/README.md) |
+| 2026-03-19 | Python：2つの Excel をつないで情報を取り出す | [docs/2026-03-19/python/](docs/2026-03-19/python/README.md) |
 
 ---
 
